@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitkandpal&theme=tokyonight&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkandpal&hide_progress=true)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshitkandpal.harshitkandpal)
+
 
 <!--
 **harshitkandpal/harshitkandpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
