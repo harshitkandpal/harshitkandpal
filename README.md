@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitkandpal&theme=tokyonight&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkandpal&&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkandpal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshitkandpal.harshitkandpal)
 
 
