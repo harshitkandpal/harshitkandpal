@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitkandpal&theme=tokyonight&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkandpal&hide_progress=true)
+[![An image of @harshit777's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshit777)](https://holopin.io/@harshit777)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshitkandpal.harshitkandpal)
+
 
 
 
